@@ -76,3 +76,4 @@ console.log(c);//error
 }
 
 hello();// caling the function
+
